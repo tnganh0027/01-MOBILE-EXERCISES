@@ -17,3 +17,7 @@ Run ex1:
 5. Re-enter the "localhost:8080/location" and re-do for another latittude and longtitude.
 
 Image demo:
+
+![Image of Demo1](https://octodex.github.com/images/yaktocat.png)
+
+![Image of demo2](https://octodex.github.com/images/yaktocat.png)
