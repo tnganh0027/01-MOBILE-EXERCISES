@@ -6,7 +6,7 @@ public class Distance {
     private String longtitude1;
     private String lattitude2;
     private String longtitude2;
-    private String dist;
+    private String distance_between_2_location;
 
     public Distance() {
     }
@@ -28,7 +28,7 @@ public class Distance {
         Double c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
 
         Double distances = R * c;
-        this.dist = Double.toString(distances) + " KM";
+        this.distance_between_2_location = Double.toString(distances) + " KM";
     }
 
     public String getLattitude2() {
@@ -64,10 +64,10 @@ public class Distance {
     }
 
     public String getDist() {
-        return dist;
+        return distance_between_2_location;
     }
 
     public void setDist(String dist) {
-        this.dist = dist;
+        this.distance_between_2_location = dist;
     }
 }
