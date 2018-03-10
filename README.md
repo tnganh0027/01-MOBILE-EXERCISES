@@ -18,9 +18,9 @@ Run ex1:
 
 Image demo:
 
-![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap1.png)
+![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap1.PNG)
 
-![Image of demo2](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap2.png)
+![Image of demo2](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap2.PNG)
 
 # FOR EXERCISE 2
 
@@ -41,5 +41,6 @@ lon2  -your longtitude for 2nd location
 >SEND the request when you complete all the params.
 
 Image demo:
-![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/blob/master/ex2/src/main/resources/static/cape1.png)
-![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/blob/master/ex2/src/main/resources/static/cape2.png)
+![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/blob/master/ex2/src/main/resources/static/cape1.PNG)
+
+![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/blob/master/ex2/src/main/resources/static/cape2.PNG)
