@@ -18,6 +18,6 @@ Run ex1:
 
 Image demo:
 
-![Image of Demo1](https://octodex.github.com/images/yaktocat.png)
+![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap1.PNG)
 
-![Image of demo2](https://octodex.github.com/images/yaktocat.png)
+![Image of demo2](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap2.PNG)
