@@ -18,6 +18,28 @@ Run ex1:
 
 Image demo:
 
-![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap1.PNG)
+![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap1.png)
 
-![Image of demo2](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap2.PNG)
+![Image of demo2](https://github.com/tnganh0027/01-MOBILE-EXERCISES/tree/master/ex1/src/main/resources/static/cap2.png)
+
+# FOR EXERCISE 2
+
+### In this exercise, i used the Haversine Formula (https://en.wikipedia.org/wiki/Haversine_formula) with Radius of Earth to calculate distance between 2 points(Lat,Long).
+### I have not write the UI for client side so you will need Postman (https://www.getpostman.com/) to test the webservice Restful.
+Pre-install for ex2 the same with ex1.
+
+Run ex2:
+1. Fork this repo to your local with configurations(maven, springboot 5, tomcat...)
+2. Run on your IDE.
+3. Open Postman and enter the "localhost:8080" (if you use another port, you will need to change it)
+4. Click the Params button to enter 2 (lat,long) present for 2 location.
+*Key  *value
+lat1  -your latitude for 1st location
+lon1  -your longtitude for 1st location
+lat2  -your latitude for 2nd location
+lon2  -your longtitude for 2nd location
+>SEND the request when you complete all the params.
+
+Image demo:
+![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/blob/master/ex2/src/main/resources/static/cape1.png)
+![Image of Demo1](https://github.com/tnganh0027/01-MOBILE-EXERCISES/blob/master/ex2/src/main/resources/static/cape2.png)
